@@ -12,7 +12,7 @@
   <a href="https://soraenai.netlify.app">Website</a> ·
   <a href="https://huggingface.co/soraenai">Hugging Face</a> ·
   <a href="https://x.com/soraenai">X</a> ·
-  <a href="https://www.linkedin.com/company/145366663">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/soraen-ai">LinkedIn</a>
 </p>
 
 ---
